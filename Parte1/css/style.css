@@ -1,0 +1,31 @@
+ img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border: rgb(12, 28, 204) double 5px;
+ }
+.title{
+    text-align: center;
+ }
+.quote{
+    text-align:center;
+    font-size: 15px;
+}
+span{
+    font-weight: bold;
+}
+body{
+    background-color: rgb(223, 255, 248);
+}
+footer{
+    margin-top: 50px;
+}
+.flex-container{
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+.flexFooter{
+    display:flex;
+    justify-content: flex-end;
+}
